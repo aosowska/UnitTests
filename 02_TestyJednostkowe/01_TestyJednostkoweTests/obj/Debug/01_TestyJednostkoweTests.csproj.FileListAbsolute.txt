@@ -1,0 +1,41 @@
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\01_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkoweTests.dll
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\01_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkoweTests.pdb
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\01_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkowe.dll
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\01_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkowe.pdb
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\01_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.csprojResolveAssemblyReference.cache
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\01_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.dll
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\01_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.pdb
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkoweTests.dll
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkoweTests.pdb
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkowe.dll
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkowe.pdb
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.csprojResolveAssemblyReference.cache
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.dll
+D:\users\tomek\UG\POKL\Dydaktyka\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.pdb
+D:\users\tomek\UG\Zajecia\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkoweTests.dll
+D:\users\tomek\UG\Zajecia\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkoweTests.pdb
+D:\users\tomek\UG\Zajecia\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkowe.dll
+D:\users\tomek\UG\Zajecia\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkowe.pdb
+D:\users\tomek\UG\Zajecia\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.csprojResolveAssemblyReference.cache
+D:\users\tomek\UG\Zajecia\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.dll
+D:\users\tomek\UG\Zajecia\TestowanieAplikacjiDotNet\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.pdb
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkoweTests.dll
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkoweTests.pdb
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkowe.dll
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkowe.pdb
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.dll
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.pdb
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkoweTests.dll
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkoweTests.pdb
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkowe.dll
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\01_TestyJednostkoweTests\bin\Debug\01_TestyJednostkowe.pdb
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.csproj.CopyComplete
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.dll
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\01_TestyJednostkoweTests\obj\Debug\01_TestyJednostkoweTests.pdb

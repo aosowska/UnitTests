@@ -1,0 +1,18 @@
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.pdb
+C:\Users\Aleksandra\Desktop\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\Library\bin\Debug\netstandard2.0\Library.deps.json
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\Library\bin\Debug\netstandard2.0\Library.dll
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\Library\bin\Debug\netstandard2.0\Library.pdb
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.csprojResolveAssemblyReference.cache
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.csproj.CoreCompileInputs.cache
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.AssemblyInfoInputs.cache
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.AssemblyInfo.cs
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.dll
+C:\Users\Aleksandra\Desktop\Rzeczy do projektu\02_TestyJednostkowe\Library\obj\Debug\netstandard2.0\Library.pdb
